@@ -1,5 +1,5 @@
-<h1 align="center">Hi, my name is Saugat Ghimire</h1>
-<h3 align="center">CS student at LSU with a concentration in Cybersecurity</h3>
+<h1 align="center">yo</h1>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sghimi5&label=Profile%20views&color=0e75b6&style=flat" alt="sghimi5" /> </p>
 
