@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, MySQL**
 
-- 📫 How to reach me **sghimi5@lsu or sgdoger@gmail.com**
+- 📫 Reach me @ **saugat_ghimire@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
